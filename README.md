@@ -8,5 +8,5 @@
 - The Accenture logo object detector was built on top of pretrained weights (transfer learning);
 - Both the yolov3 model and the pretrained weights were implemented using the darknet neural network framework;
 ## Outcome
-Android app that takes pictures and performs detection of the Accenture's logo.
+Android app that takes pictures and performs detection of the Accenture's logo
 
